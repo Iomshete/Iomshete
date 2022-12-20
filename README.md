@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iomshete
-- 👀 I’m interested in ... 
+
 - 🌱 I’m currently learning ..C
 
 <!---
